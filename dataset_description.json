@@ -1,0 +1,38 @@
+{
+    "Name": "[C11]PS13 First-in-human evalutation",
+    "BIDSVersion": "v1.6.0",
+    "DatasetType": "raw",
+    "License": "cc0",
+    "Authors": 
+        [
+            "Min-Jeong Kim", 
+            "Jae-Hoon Lee", 
+            "Fernanda Juarez Anaya", 
+            "Jinsoo Hong", 
+            "William Miller", 
+            "Sanjay Telu", "Prachi Singh", 
+            "Michelle Y Cortes", 
+            "Katharine Henry",
+            "George L Tye", 
+            "Michael P Frankland", 
+            "Jose A Montero Santamaria", 
+            "Jeih-San Liow", 
+            "Sami S Zoghbi", 
+            "Masahiro Fujita", 
+            "Victor W Pike", 
+            "Robert B Innis"
+         ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "Eur J Nucl Med Mol Imaging. 2020;47(13):3143-3151. doi:10.1007/s00259-020-04855-2",
+    "Funding": 
+        [
+            "ZIA MH002793/ImNIH/Intramural NIH HHS/United States",
+            "ZIA MH002795/ImNIH/Intramural NIH HHS/United States"
+        ],
+    "EthicsApprovals": [""],
+    "ReferencesAndLinks": 
+        [
+            "Kim MJ, Lee JH, Juarez Anaya F, Hong J, Miller W, Telu S, Singh P, Cortes MY, Henry K, Tye GL, Frankland MP, Montero Santamaria JA, Liow JS, Zoghbi SS, Fujita M, Pike VW, Innis RB. First-in-human evaluation of [11C]PS13, a novel PET radioligand, to quantify cyclooxygenase-1 in the brain. Eur J Nucl Med Mol Imaging. 2020 Dec;47(13):3143-3151. doi: 10.1007/s00259-020-04855-2. Epub 2020 May 12. PMID: 32399622; PMCID: PMC8261645."
+        ,"PET Imaging of the Dopamine Transporter with 18F-FECNT: A Polar Radiometabolite Confounds Brain Radioligand Measurements Sami S. Zoghbi, H. Umesha Shetty, Masanori Ichise, Masahiro Fujita, Maao Imaizumi, Jeih-San Liow, Jay Shah, John L. Musachio, Victor W. Pike, Robert B. Innis Journal of Nuclear Medicine Mar 2006, 47 (3) 520-527;"]
+}
+
