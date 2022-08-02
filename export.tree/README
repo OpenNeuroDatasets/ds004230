@@ -1,0 +1,6 @@
+This dataset was gathered between 2017 and 2018 for as part of the "First-in-human evaluation of [ 11 C]PS13, 
+a novel PET radioligand, to quantify cyclooxygenase-1 in the brain". This dataset consists of 17 subjects and their
+imaging data as a first release. The second release of this dataset will include blood data for each of the the 
+17 subjects involved in this study.
+
+For more details about the paper, authors, or dataset see the attached dataset_description.json or the participants.tsv.
