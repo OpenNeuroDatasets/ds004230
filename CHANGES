@@ -1,2 +1,4 @@
+2.0.0 2022-08-02
+  - Added 10 more subjects with both MRI and PET data
 1.0.0 2022-08-02
   - First BIDS-valid cohort (N=5) out of 10 added. Blood data is currently missing.
