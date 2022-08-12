@@ -1,7 +1,0 @@
-{
-  "Description": "Mean PET image averaged across all time frames",
-  "Sources": "/derivatives/PETPrep/sub-PS17/ses-baselinebrain/pet/sub-PS17_ses-baselinebrain_desc-mc_pet.nii.gz",
-  "SoftwareName": "FreeSurfer-mri_concat",
-  "SoftwareVersion": "mri_concat freesurfer dev\n",
-  "CommandLine": "mri_concat /derivatives/PETPrep/sub-PS17/ses-baselinebrain/pet/sub-PS17_ses-baselinebrain_desc-mc_pet.nii.gz --mean --o /derivatives/PETPrep/sub-PS17/ses-baselinebrain/pet/sub-PS17_ses-baselinebrain_desc-mc_mean.nii.gz"
-}
