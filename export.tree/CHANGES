@@ -1,8 +1,0 @@
-2.2.2 2022-08-13
-  - -Added Haematocrit and metabolite parent fraction 
-2.2.1 2022-08-12
-  - removed duplicate files
-2.1.0 2022-08-03
-  - Added derivatives data for MRI and PET (motion correction (+QC), co-registration (+QC) and extraction of time activity curves)
-1.0.0 2022-08-02
-  - First BIDS-valid cohort (N=5) out of 10 added. Blood data is currently missing.
