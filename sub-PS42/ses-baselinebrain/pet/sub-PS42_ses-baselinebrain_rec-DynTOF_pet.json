@@ -178,5 +178,6 @@
     "InjectionStart": 0,
     "AcquisitionMode": "dynamic",
     "ImageDecayCorrected": true,
-    "ImageDecayCorrectionTime": 0
+    "ImageDecayCorrectionTime": 0,
+    "Haematocrit": 0.37
 }

@@ -178,5 +178,6 @@
     "ModeOfAdministration": "bolus",
     "AcquisitionMode": "dynamic",
     "ImageDecayCorrected": true,
-    "ImageDecayCorrectionTime": 0
+    "ImageDecayCorrectionTime": 0,
+    "Haematocrit": 0.447
 }

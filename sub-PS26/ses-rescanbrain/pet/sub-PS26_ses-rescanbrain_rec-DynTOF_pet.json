@@ -159,7 +159,9 @@
         3
     ],
     "AttenuationCorrection": "measured,AC_CT_Brain",
-    "ScatterFraction": [0.25079],
+    "ScatterFraction": [
+        0.25079
+    ],
     "TimeZero": "13:20:08",
     "ScanStart": 4,
     "ReconFilterSize": 2.0,
@@ -176,5 +178,6 @@
     "InjectionStart": 0,
     "AcquisitionMode": "dynamic",
     "ImageDecayCorrected": true,
-    "ImageDecayCorrectionTime": 4
+    "ImageDecayCorrectionTime": 4,
+    "Haematocrit": 0.425
 }

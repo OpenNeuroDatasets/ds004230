@@ -178,5 +178,6 @@
     ],
     "AttenuationCorrection": "measured,AC_CT_Brain",
     "ReconFilterSize": 2.0,
-    "ReconFilterType": "XYZ Gauss"
+    "ReconFilterType": "XYZ Gauss",
+    "Haematocrit": 0.472
 }

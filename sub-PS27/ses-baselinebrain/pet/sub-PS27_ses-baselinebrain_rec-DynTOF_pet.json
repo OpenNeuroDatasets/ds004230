@@ -177,5 +177,6 @@
         3
     ],
     "AttenuationCorrection": "measured,AC_CT_Brain",
-    "ScanStart": 5
+    "ScanStart": 5,
+    "Haematocrit": 0.411
 }

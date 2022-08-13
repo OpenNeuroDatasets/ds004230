@@ -178,5 +178,6 @@
         21,
         3
     ],
-    "AttenuationCorrection": "measured,AC_CT_Brain"
+    "AttenuationCorrection": "measured,AC_CT_Brain",
+    "Haematocrit": 0.308
 }
