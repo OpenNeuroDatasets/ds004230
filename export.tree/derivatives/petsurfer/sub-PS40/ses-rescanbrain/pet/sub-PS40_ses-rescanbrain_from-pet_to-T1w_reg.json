@@ -1,0 +1,20 @@
+{
+  "Description": "Registration file to go from PET space to ANAT space",
+  "Sources": [
+    "/derivatives/PETPrep/sub-PS40/ses-rescanbrain/pet/sub-PS40_ses-rescanbrain_desc-mc_mean.nii.gz",
+    "/derivatives/PETPrep/sub-PS40/ses-rescanbrain/anat/sub-PS40_ses-rescanbrain_space-T1w_desc-brain_mask.nii.gz"
+  ],
+  "ReferenceImage": "/derivatives/PETPrep/sub-PS40/ses-rescanbrain/anat/sub-PS40_ses-rescanbrain_space-T1w_desc-brain_mask.nii.gz",
+  "dof": 6,
+  "QC": [
+    "/derivatives/PETPrep/logs/sub-PS40/sub-PS40_ses-rescanbrain_axial_coregPET.png",
+    "/derivatives/PETPrep/logs/sub-PS40/sub-PS40_ses-rescanbrain_axial_coregMR.png",
+    "/derivatives/PETPrep/logs/sub-PS40/sub-PS40_ses-rescanbrain_coronal_coregPET.png",
+    "/derivatives/PETPrep/logs/sub-PS40/sub-PS40_ses-rescanbrain_coronal_coregMR.png",
+    "/derivatives/PETPrep/logs/sub-PS40/sub-PS40_ses-rescanbrain_sagittal_coregPET.png",
+    "/derivatives/PETPrep/logs/sub-PS40/sub-PS40_ses-rescanbrain_sagittal_coregMR.png"
+  ],
+  "SoftwareName": "FreeSurfer-mri_coreg",
+  "SoftwareVersion": "mri_coreg freesurfer dev\n",
+  "CommandLine": "mri_coreg --s sub-PS40 --mov /derivatives/PETPrep/sub-PS40/ses-rescanbrain/pet/sub-PS40_ses-rescanbrain_desc-mc_mean.nii.gz --reg /derivatives/PETPrep/sub-PS40/ses-rescanbrain/pet/sub-PS40_ses-rescanbrain_from-pet_to-T1w_reg.lta"
+}
