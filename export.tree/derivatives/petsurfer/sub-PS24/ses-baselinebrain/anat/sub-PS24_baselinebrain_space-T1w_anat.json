@@ -1,7 +1,0 @@
-{
-  "Description": "",
-  "Sources": ["/sub-PS38/ses-baselinebrain/anat/sub-PS38_ses-baselinebrain_T1w.nii.gz"],
-  "SoftwareName": "FreeSurfer-recon-all",
-  "SoftwareVersion": "freesurfer-darwin-macOS-dev-20220518-fb22ffc\n",
-  "CommandLine": "recon-all -subjid sub-PS38 -i /sub-PS38/ses-baselinebrain/anat/sub-PS38_ses-baselinebrain_T1w.nii.gz -all -cw256"
-}
