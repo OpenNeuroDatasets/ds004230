@@ -1,0 +1,9 @@
+{
+  "Description": "Motion-corrected PET file",
+  "Sources": "/sub-PS31/ses-rescanbrain/pet/sub-PS31_ses-rescanbrain_rec-DynTOF_pet.nii.gz",
+  "ReferenceImage": "Robust template using mri_robust_register",
+  "CostFunction": "ROB",
+  "QC": "",
+  "SoftwareName": "PETPrep HMC workflow",
+  "SoftwareVersion": "v. 0.0.1"
+}
