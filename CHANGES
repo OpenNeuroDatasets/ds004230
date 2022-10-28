@@ -1,3 +1,5 @@
+2.2.6 2022-10-28
+  - removed duplicate entries from auto-sampled blood data, added *autosampler_blood.json files, corrected *blood_tsv's to note venous sampling
 2.2.5 2022-09-11
   - remove automatic blood samples
 2.2.4 2022-09-11
