@@ -1,3 +1,5 @@
+2.3.1 2022-11-23
+  - removed unpublished subjects from derivatives, data now mirrors subjects published in doi:10.1007/s00259-020-04855-2
 2.3.0 2022-11-21
   - Removed errantly uploaded poor quality subject data from main BIDS tree
 2.2.6 2022-10-28
