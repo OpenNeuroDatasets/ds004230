@@ -1,0 +1,14 @@
+{
+    "PlasmaAvail": false,
+    "WholeBloodAvail": true,
+    "MetaboliteAvail": false,
+    "DispersionCorrected": false,
+    "time": {
+        "Description": "Time in relation to time zero defined in _pet.json",
+        "Units": "s"
+    },
+    "whole_blood_radioactivity": {
+        "Description": "Radioactivity in whole blood samples.",
+        "Units": "Bq/mL"
+    }
+}
